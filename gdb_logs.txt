@@ -1,0 +1,10 @@
+16  run testcases/err_ops2.s
+   17  p val_b
+   18  p *val_b
+   19  p head
+   20  p *head
+   21  p head->next
+   22  p *head->next
+   23  Q
+   24  q
+   25  show commands

@@ -8,7 +8,7 @@ int calculate_result(struct Reader *reader) {
     while (reader->token != NULL) {
         reader->token->next = head;
         head = reader->token;
-        if (head->tok_type != TOK_NUM) {
+        if (head->tok_type != TOK_NUM && head->next != NULL && head->next->next != NULL) {
             // this is an operation:
             struct Token *op = head;
             struct Token *val_a = head->next;

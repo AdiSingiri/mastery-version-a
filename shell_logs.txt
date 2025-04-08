@@ -1,0 +1,500 @@
+   34  git add .
+   35  git commit -m "maybe"
+   36  git add .
+   37  git commit -m "hello"
+   38  git push
+   39  git push
+   40  git checkout main
+   41  git push
+   42  git add .
+   43  git commit -m "hi"
+   44  git push
+   45  make all
+   46  python3 driver.py
+   47  git add .
+   48  git commit -m "commit3"
+   49  git push
+   50  git add .
+   51  make clean
+   52  git add .
+   53  git commit -m "test"
+   54  git push
+   55  git add .
+   56  git commit -m "hello"
+   57  git push
+   58  make all
+   59  ./heap_runner
+   60  make all
+   61  ./heap_runner
+   62  make all
+   63  ./heap_runner
+   64  git add .
+   65  git commit -m "heap_runner"
+   66  git push
+   67  make clean
+   68  python3 driver.py
+   69  make clean
+   70  python3 driver.py
+   71  make all
+   72  python3 driver.py
+   73  make all
+   74  python3 driver.py
+   75  make all
+   76  python3 driver.py
+   77  make all
+   78  python3 driver.py
+   79  runner -r traces/amptjp-bal.rep
+   80  make all
+   81  make all
+   82  runner -r traces/amptjp-bal.rep
+   83  runner -r traces/expr-bal.rep
+   84  make all
+   85  python3 driver.py
+   86  make all
+   87  python3 driver.py
+   88  make all
+   89  make all
+   90  python3 driver.py
+   91  runner -r traces/random2.rep
+   92  make all
+   93  python3 driver.py
+   94  make clean
+   95  make all
+   96  python3 driver.py
+   97  git add .
+   98  git commit -m "change1"
+   99  make clean
+  100  make all
+  101  python3 driver.py
+  102  make clean
+  103  make all
+  104  python3 driver.py
+  105  make clean
+  106  make all
+  107  python3 driver.py
+  108  make clean
+  109  make all
+  110  runner -r traces/random2.rep
+  111  runner -r traces/amptjp-bal.rep
+  112  make clean
+  113  make all
+  114  python3 driver.py
+  115  python3 driver.py
+  116  make all
+  117  python3 driver.py
+  118  make clean
+  119  make all
+  120  make clean
+  121  make all
+  122  python3 driver.py
+  123  make clean
+  124  make all
+  125  python3 driver.py
+  126  make clean
+  127  make all
+  128  python3 driver.py
+  129  git add .
+  130  git commit -m "final_commit"
+  131  git push
+  132  make clean
+  133  make all
+  134  python3 driver.py
+  135  make clean
+  136  make all
+  137  python3 driver.py
+  138  make clean
+  139  make all
+  140  python3 driver.py
+  141  make clean
+  142  make all
+  143  ./heap_runner
+  144  make clean
+  145  make all
+  146  python3 driver.py
+  147  make clean
+  148  make all
+  149  python3 driver.py
+  150  make clean
+  151  make all
+  152  python3 driver.py
+  153  git add .
+  154  git commit -m "final_commit2"
+  155  git push
+  156  make clean
+  157  make all
+  158  python3 driver.py
+  159  make clean
+  160  make all
+  161  make clean
+  162  make all
+  163  python3 driver.py
+  164  git add .
+  165  git commit -m "final_commit_N"
+  166  git push
+  167  git add .
+  168  git commit -m "f"
+  169  git push
+  170  make clean
+  171  make all
+  172  ./heap_runner
+  173  git clone git@github.com:CS429-SP2025/ac-lab-AdiSingiri.git
+  174  ssh blueberry
+  175  Host blueberry 3.13.62.31
+  176  ssh blueberry
+  177  ssh blueberry
+  178  ls
+  179  cd ac-lab-AdiSingiri
+  180  ls
+  181  make clean
+  182  make all
+  183  make
+  184  ls
+  185  make hello.c
+  186  make hello
+  187  ./hello
+  188  gdb ./hello
+  189  gcc -o hello hello.c -g
+  190  gdb ./hello
+  191  gdb ./hello
+  192  gdb ./hello
+  193  gdb ./hello
+  194  make hello
+  195  make hello
+  196  make hello
+  197  make hello
+  198  make hello
+  199  make hello
+  200  make hello
+  201  ./hello
+  202  make hello
+  203  make hello
+  204  make hello
+  205  ./hello
+  206  gdb ./hello
+  207  gcc -o -g hello.c nigg
+  208  gcc -o -g nigg hello.c
+  209  gcc -g hello.c -o nigg
+  210  ls
+  211  ./nigg
+  212  make clean
+  213  ls
+  214  make clean
+  215  rm hello
+  216  rm nigg
+  217  ls
+  218  make clean
+  219  make hello.c
+  220  ls
+  221  make clean
+  222  make all
+  223  ls
+  224  gdb
+  225  ./test_runner
+  226  gdb
+  227  bin/ci -i testcases/week2/mov_basic.s
+  228  gdb
+  229  gdb ./test_runner
+  230  gcc -g -o test_runner test_runner.c
+  231  vi label_Map.c
+  232  cat label_map.c
+  233  cat /u/as235858/ci-lab-AdiSingiri/ci-lab-AdiSingiri/src/ci/label_map.c
+  234  cat /u/as235858/ci-lab-AdiSingiri/ci-lab-AdiSingiri/src/ci/label_map.c
+  235  nano /u/as235858/ci-lab-AdiSingiri/ci-lab-AdiSingiri/src/ci/label_map.c
+  236  nano /u/as235858/ci-lab-AdiSingiri/ci-lab-AdiSingiri/src/ci/label_map.c
+  237  bin/ci -i testcases/week2/mov_basic.s
+  238  gdb mov_basic.s
+  239  make clean
+  240  make all
+  241  ls
+  242  gdb bin/ci -i testcases/week2/mov_basic.s
+  243  gbd bin/ci
+  244  gdb bin/ci
+  245  gcc -o parser parser.c
+  246  gcc -o parser /u/as235858/ci-lab-AdiSingiri/ci-lab-AdiSingiri/src/ci/parser.c
+  247  gdb bin/ci
+  248  gdb src/ci
+  249  make clean
+  250  make all
+  251  gdb bin/mm
+  252  make all
+  253  gdb ./runner
+  254  make clean
+  255  make all
+  256  gdb ./heap_runner
+  257  make clean
+  258  make all
+  259  gdb bin/ci'
+  260  gdb bin/ci
+  261  make clean
+  262  make all
+  263  git clone git@github.com:CS429-SP2025/shared-repo-version-i-AdiSingiri.git
+  264  ls
+  265  make clean
+  266  make all
+  267  make 
+  268  ls
+  269  ./bin
+  270  gdb bin
+  271  gdb bin/ci
+  272  ./a.out
+  273  gdb ./a.out
+  274  gdb a.out
+  275  gdb outputs
+  276  ls
+  277  make clean
+  278  ls
+  279  make
+  280  gdb main/a.out
+  281  gdb bin/a
+  282  gdb bin//u/as235858/shared-repo-version-i-AdiSingiri/bin/a.out
+  283  make parser.c
+  284  make parser.c -o hello
+  285  ls
+  286  cd bin
+  287  ls
+  288  cd ..
+  289  ls
+  290  bin/a.out -t short1.rep
+  291  ~/.gdbinit
+  292  ref.out -t short1.rep
+  293  ref.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short1.rep
+  294  bin/a.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short1.rep
+  295  gdb a.out
+  296  gdb bin/a
+  297  make
+  298  make clean
+  299  make
+  300  gdb bin/a.out
+  301  gdb bin/a.out
+  302  make clean
+  303  make all
+  304  make
+  305  make clean
+  306  make
+  307  gdb bin/a.out
+  308  ./a.out
+  309  bin/a.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short2.rep
+  310  gdb bin/a.out
+  311  gdb grind.c
+  312  gdb bin/a.out
+  313  ~/.gdbinit
+  314  nano gdbinit
+  315  ~/.gdbinit
+  316  gdb bin/a.out
+  317  bin/a.out -t short1.rep
+  318  bin/a.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short1.rep
+  319  bin/a.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short1.rep
+  320  make all
+  321  make clean
+  322  make
+  323  bin/a.out -t /u/as235858/shared-repo-version-i-AdiSingiri/testcases/short1.rep
+  324  git add .
+  325  git commit -m "Fixed code"
+  326  git push
+  327  git add .
+  328  git commit -m "Fixed code"
+  329  git push
+  330  cd ..
+  331  ls
+  332  rm -rf shared_repo
+  333  rm -rf shared-repo-version-i-AdiSingiri/
+  334  ls
+  335  rm -rf shared-repo-version-i-AdiSingiri/
+  336  ls
+  337  pwd
+  338  ls
+  339  ls -a
+  340  rm -rf shared-repo-version-i-AdiSingiri
+  341  ls
+  342  ls
+  343  rm -rf shared-repo-version-i-AdiSingiri/
+  344  ls -A
+  345  cd shared-repo-version-i-AdiSingiri/
+  346  ls
+  347  ls -A
+  348  rm -rf .vscode/
+  349  ls -A
+  350  cd ..
+  351  ls
+  352  rm -rf shared-repo-version-i-AdiSingiri/
+  353  ls -A
+  354  git clone git@github.com:CS429-SP2025/se-lab-aditya-s-and-krish-p.git
+  355  test -hw
+  356  make clean
+  357  make
+  358  make clean
+  359  make all
+  360  make
+  361  test -hw -h
+  362  test -hw
+  363  bin/test -hw -h
+  364  make
+  365  make clean
+  366  make
+  367  bin/test -hw
+  368  make clean
+  369  make
+  370  bin/test-hw
+  371  bin/test-hw -v 2
+  372  make clean
+  373  make
+  374  bin/test-hw
+  375  make clean
+  376  make
+  377  test/bin-hw
+  378  bin/test_hw
+  379  bin/test-hw
+  380  make clean
+  381  make
+  382  bin/test-hw
+  383  git add .
+  384  git commit -m "conds"
+  385  git push
+  386  make clean
+  387  make
+  388  bin/test-hw
+  389  make clean
+  390  make
+  391  bin/test-hw
+  392  bin/test-hw -h
+  393  bin/test-hw -v 2
+  394  make clean
+  395  make
+  396  bin/test-hw 
+  397  bin/test-hw -v 2
+  398  make clean
+  399  make
+  400  bin/test-hw -v 2
+  401  bin/test-hw
+  402  make clean
+  403  make
+  404  bin/test-hw
+  405  bin/test-hw -v 2
+  406  make clean
+  407  make
+  408  bin/test-hw
+  409  bin/test-hw -v 2
+  410  make clean
+  411  make
+  412  bin/test-hw -v 2
+  413  bin/test-hw
+  414  bin/test-hw -v 2
+  415  make clean
+  416  make
+  417  bin/test-hw -v 2
+  418  bin/test-hw
+  419  git add .
+  420  git commit -m "alu"
+  421  git push
+  422  make clean
+  423  make
+  424  bin/test-hw
+  425  bin/test-hw -v 2
+  426  make clean
+  427  make
+  428  make clean
+  429  make
+  430  bin/test-hw -v 2
+  431  bin/test-hw
+  432  make clean
+  433  make
+  434  bin/test-hw
+  435  bin/test-hw -v 2
+  436  make clean
+  437  make
+  438  make clean
+  439  make 
+  440  bin/test-hw -v 2
+  441  bin/test-hw 
+  442  make clean
+  443  make
+  444  bin/test-hw 
+  445  bin/test-hw -v 2
+  446  make clean
+  447  make
+  448  bin/test-hw -v 2
+  449  make clean
+  450  make
+  451  bin/test-hw -v 2
+  452  make clean
+  453  make
+  454  bin/test-hw -v 2
+  455  make clean
+  456  [make
+  457  make
+  458  bin/test-hw -v 2
+  459  make clean
+  460  make
+  461  bin/test-hw -v 2
+  462  bin/test-hw
+  463  make clean
+  464  make
+  465  make clean
+  466  make
+  467  bin/test-hw
+  468  bin/test-hw -v 2
+  469  make clean
+  470  make
+  471  bin/test-hw -v 2
+  472  make clean
+  473  make
+  474  bin/test-hw -v 2
+  475  bin/test-hw
+  476  bin/test-hw -v 2
+  477  make clean
+  478  make
+  479  bin/test-hw -v 2
+  480  make clean
+  481  make
+  482  bin/test-hw -v 2
+  483  make clean
+  484  make
+  485  bin/test-hw -v 2
+  486  make clean
+  487  make
+  488  bin/test-hw -v 2
+  489  make clean
+  490  make
+  491  bin/test-hw -v 2
+  492  git add .
+  493  git commit -m "semi-final"
+  494  git push
+  495  git add .
+  496  git commit -m "initial_week2_commit"
+  497  git push
+  498  make clean
+  499  make
+  500  make
+  501  ./mini_ci
+  502  ./mini_ci basic_add.s
+  503  make debug
+  504  make clean
+  505  make debug
+  506  gdb mini_ci
+  507  make clean
+  508  make
+  509  ./mini_ci testcases/basic_add.s
+  510  make check
+  511  make clean
+  512  make debug
+  513  gdb mini_ci
+  514  make clean
+  515  maked
+  516  make
+  517  make check
+  518  make clean
+  519  make
+  520  make check
+  521  make debug
+  522  gdb mini_ci
+  523  make clean
+  524  make check
+  525  ./mini_ci testcases/basic_add.s
+  526  make clean
+  527  make check
+  528  make check
+  529  make clean
+  530  make check
+  531  make clean
+  532  make check
+  533  history > shell_logs.txt
